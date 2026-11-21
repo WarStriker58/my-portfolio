@@ -41,6 +41,6 @@ export const personalInfo = {
   email: 'sebastiansalas010@gmail.com',
   github: 'https://github.com/WarStriker58',
   linkedin: 'https://www.linkedin.com/in/sebastian-andre-salas-cordova/',
-  siteUrl: 'https://tuportafolio.com',
+  siteUrl: 'https://sebastiansalas.is-a.dev',
   avatar: '/avatar.png',
 };
